@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*, *::after, *::before{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+    /*These all are done so that the once the width of a box is set than padding and margin must add in that width only.
+    The width must not increase along with the padding and margin.*/
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*The main root requirements of the page are over now*/
+
+/* ###################### Utility Classes ################# */
+
+.comtainer{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+
+
+/* ##################### Nav-Bar Styling ###################### */
+
+/* For Desktop Mode  */
+
+.navbar input[type='checkbox'], .navbar .hamburger-lines{
+    display: none;
+}
+
+.navbar{
+    box-shadow: 0px 5px 10px 0px #aaa;
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    color: #000;
+    opacity: 0.85;
+    z-index: 999;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+    height: 64px;
+    align-items: center;
+}
+
+.menu-items{
+    order: 2;
+    display: flex;
+}
+
+.menu-items li{
+    list-style-type: none;
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+}
+
+.logo{
+    order: 1;
+    font-size: 3rem;
+}
+
+.navbar a{
+    color: #444;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover{
+    color: #117964;
+}
+
+/* ##################### Showcase Are Styling ############# */
+
+.showcase-area{
+    height: 50vh;
+    background:url("");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
