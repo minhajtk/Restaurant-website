@@ -8,8 +8,6 @@ Welcome to the repository for the "Urban Bites" restaurant website! This project
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -38,8 +36,3 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/restaurant-website.git`
 2. Navigate to the project directory: `cd restaurant-website`
 3. Open the `index.html` file in a web browser.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
