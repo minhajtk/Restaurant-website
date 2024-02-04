@@ -1,6 +1,6 @@
-# Restaurant Website
+# 🍽️ Restaurant Website
 
-Welcome to the repository for the "Urban Bites" restaurant website! This project is a demo website for a restaurant created using HTML, CSS, and JavaScript.
+Welcome to the repository for the "Urban Bites" restaurant website! 🎉 This project is a demo website for a restaurant created using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
