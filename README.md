@@ -4,10 +4,15 @@ Welcome to the repository for the "Urban Bites" restaurant website! 🎉 This pr
 
 ## Table of Contents
 
+- [Live Demo](#livedemo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
+
+## Live Demo 🌐
+
+Check out the live demo of TravelEase [here](https://aloukikjoshi.github.io/Restaurant-website/)
 
 ## Introduction
 
