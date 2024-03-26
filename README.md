@@ -4,7 +4,7 @@ Welcome to the repository for the "Urban Bites" restaurant website! 🎉 This pr
 
 ## Table of Contents
 
-- [Live Demo](#livedemo)
+- [Live Demo](#live-demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
